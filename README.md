@@ -39,6 +39,3 @@ https://github.com/user-attachments/assets/ad3446f9-588f-43b1-9c44-d7fb8bbe60b0
 
 - Website created with HTML, CSS and JAVASCRIPT
 
-Texte normal suivi d’un <span class="bg-info text-success">texte coloré en vert sur fond bleu</span> dans un paragraphe.
-
-Profitez de votre visite dans le monde magique de Harry Potter !
